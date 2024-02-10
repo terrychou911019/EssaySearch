@@ -1,5 +1,5 @@
 # Essay Search
-A simple search engine with different search methods.
+A simple search engine with different search methods by using trie.
 
 ## Description
 Given a word, the search engine will list the essays whose titles or abstracts contain that word. Note that this program only considers alphabetic words, so special symbols or digits will be ignored. Queries are also case insensitive. 
